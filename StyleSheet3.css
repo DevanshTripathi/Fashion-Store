@@ -1,0 +1,59 @@
+﻿.top {
+    width: 100%;
+    height: 50px;
+    margin: 0 auto ;
+    background-color: black;
+    text-align: center;
+    clear: none;
+}
+
+    .top a {
+        font-size: 30px;
+        color: white;
+        text-decoration: none;
+        font-family: Courier New, Courier, monospace;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+    
+.top a:hover{
+  color: deeppink;
+}
+
+.rent h1 {
+    color: white;
+    text-align: left;
+    font-family: 'Colonna MT';
+    font-size: 100px;
+    padding: 10px ;
+    height: 130px;
+    margin: auto;
+    background-image: url("https://www.elegantweddinginvites.com/wedding-blog/wp-content/uploads/2016/04/twinkle-boho-inspired-wedding-reception.jpg");
+}
+
+
+.dress{
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.old {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.season {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.price {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.extra-info {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.submission {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}

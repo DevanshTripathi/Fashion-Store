@@ -1,0 +1,43 @@
+﻿.top {
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    clear: none;
+}
+
+    .top a {
+        font-size: 30px;
+        color: white;
+        text-decoration: none;
+        font-family: Courier New, Courier, monospace;
+        font-weight: bolder;
+        cursor: pointer;
+    }
+
+        .top a:hover {
+            color: deeppink;
+        }
+
+h1 {
+    font-size: 110px;
+    font-weight: 350;
+    font-family: 'Colonna MT';
+    color: white;
+    background-image: url("https://media.gucci.com/content/HeroShortStandard_1600x327/1615888803/HeroShortStandard_TAG-Olii-Profumati_001_Default.jpg");
+    padding: 40px;
+    height: 100px;
+    margin: auto;
+}
+
+h2 {
+    font-size: 80px;
+    font-family: 'Century Schoolbook';
+    color: black;
+    border-bottom: 2px solid black;
+}
+
+a:hover {
+    padding: 10px;
+}
